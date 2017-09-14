@@ -3,6 +3,8 @@
 
 ## Author
 
+Kyle Nally
+
 ## Description
 
 Create a person counter. The UI should have a + button, and a - button as well as a textview to store the value of the current number.
@@ -38,4 +40,8 @@ This application should be very similar to the first application in the book.
 
 ## Outside Resources Used
 
+Android Programming: The Big Nerd Ranch Guide, Phillips, Stewart, & Hardy p.12 (layout structure).
+
 ## Known Problems, Issues, And/Or Errors in the Program
+
+None.

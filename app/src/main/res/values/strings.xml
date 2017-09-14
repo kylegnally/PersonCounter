@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CIS298Assignment1</string>
+    <string name="app_name">CIS298InClass1</string>
+    <string name="person_count">0</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="toast_message">Congrats! You\'ve exceeded twenty people!</string>
+    <string name="negative_toast">You can\'t have negative people.</string>
 </resources>
