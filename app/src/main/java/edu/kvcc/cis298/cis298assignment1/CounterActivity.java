@@ -1,9 +1,10 @@
 // CIS298 Assignment 1 - Person Counter
 // Kyle Nally
 // Description - This application creates a person counter in a single activity.
-// Reducing the number to less than zero, and also toasts the user if the number
-// of people exceeds twenty. It does NOT toast the user if the number is then
-// reduced to less than twenty, and does NOT toast the user for all number above twenty.
+// Reducing the number to less than zero presents a toast to the user.
+// The application also toasts the user if the number of people exceeds twenty.
+// It does NOT toast the user if the number is then reduced to less than twenty,
+// and does NOT toast the user for all numbers above twenty.
 
 package edu.kvcc.cis298.cis298assignment1;
 
